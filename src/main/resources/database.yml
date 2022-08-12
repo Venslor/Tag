@@ -1,0 +1,9 @@
+MONGODB:
+  ADDRESS: "localhost"
+  PORT: 27017
+  DATABASE: "Tag"
+  AUTHENTICATION:
+    ENABLED: false
+    USERNAME: ""
+    PASSWORD: ""
+    DATABASE: "Tag"

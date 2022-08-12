@@ -1,0 +1,23 @@
+ERROR:
+  PERMISSION:
+    TAGS-NO-ACCESS: '&cYou don''t have permission to use this Tag&c. {0}&fPurchase
+      a rank on store to grant you access!'
+  GENERAL:
+    TAGS:
+      DONT-HAVE-APPLIED: '&cYou don''t have a tag applied!'
+      ALREADY-HAVE-APPLIED: '&cYour tag is already set to &4<tag>&c!'
+TAGS:
+  COMMAND:
+    ALREADY-CREATED: '&aTag &e<name> &ais already created.'
+    CREATED: '&aTag &e<name> &ahas been successfully created.'
+    DONT-EXISTS: '&cTag &f<name> &cdoes not exists!'
+    DELETED: '&aTag &f<name> &ahas been deleted.'
+    INVALID-COLOR: '&cYou''ve entered wrong chat color.'
+    PREFIX-SET: '&aPrefix for &f<name> &atag has been updated to &f<prefix>&a'
+
+    COLOR-SET: '&aColor for &f<name> &atag has been updated to &f<color>&a'
+    TAGS-EXPORTED: '&aTags have been exported to &ftags.yml&a.'
+    TAGS-IMPORTED: '&aTags have been imported from &ftags.yml&a.'
+    TYPE-SET: '&aType for &f<name> &atag has been updated to &f<type>&a'
+  TAG-APPLIED: '&fYou have selected the &c<tag> &ftag.'
+  TAG-REMOVED: '&aYou have removed your tag.'

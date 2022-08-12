@@ -1,0 +1,5 @@
+name: 'Tags'
+version: 1.0
+authors:
+  - 'Venslore'
+main: 'com.github.venslore.tag.TagPlugin'
